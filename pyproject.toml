@@ -11,5 +11,5 @@ classifiers = [
 
 
 [project.urls]
-Homepage = "https://github.com/ORGA/BEExAI"
-Issues = "https://github.com/ORGA/BEExAI/issues"
+Homepage = "https://github.com/SquareResearchCenter-data/BEExAI"
+Issues = "https://github.com/SquareResearchCenter-data/BEExAI/issues"

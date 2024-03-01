@@ -1,0 +1,6 @@
+path: 'data/boston.csv'
+target_col: "medv"
+datetime_cols: 
+cols_to_delete:
+cleaned_data_path: "output/data/boston-cleaned.csv"
+task: "regression"

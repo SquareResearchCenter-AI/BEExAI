@@ -1,0 +1,8 @@
+path: "data/my_dataset.csv"
+target_col: "class"
+datetime_cols: 
+    - "date"
+cols_to_delete:
+    - "ID"
+cleaned_data_path: "output/data/my_dataset_cleaned.csv"
+task: "classification"

@@ -1,0 +1,9 @@
+path: "data/ks-projects-201801.csv"
+target_col: "state"
+datetime_cols: 
+    - "launched"
+    - "deadline"
+cols_to_delete:
+    - "ID"
+cleaned_data_path: "output/data/ks-projects-cleaned.csv"
+task: "classification"

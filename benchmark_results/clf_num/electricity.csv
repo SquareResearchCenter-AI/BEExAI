@@ -1,0 +1,9 @@
+metrics,FaithCorr_1-,FaithCorr_1-,Infidelity_0+,Infidelity_0+,Sensitivity_0+,Sensitivity_0+,Comprehensiveness_1-,Comprehensiveness_1-,Sufficiency_0+,Sufficiency_0+,Monotonicity_1-,Monotonicity_1-,AUC_TP_0+,AUC_TP_0+,Complexity_0+,Complexity_0+,Sparseness_1-,Sparseness_1-,accuracy,accuracy
+model,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier,NeuralNetwork,XGBClassifier
+Lime,0.422 ± 0.237,0.6 ± 0.325,0.459 ± 0.004,0.328 ± 0.004,0.082 ± 0.01,0.079 ± 0.013,0.642 ± 0.199,0.511 ± 0.181,0.122 ± 0.159,0.035 ± 0.143,0.6 ± 0.17,0.867 ± 0.163,0.312 ± 0.161,0.307 ± 0.173,0.171 ± 0.003,0.124 ± 0.005,0.588 ± 0.006,0.7 ± 0.009,-,-
+ShapleyValueSampling,0.473 ± 0.266,0.597 ± 0.351,0.462 ± 0.003,0.329 ± 0.002,0.078 ± 0.012,0.078 ± 0.014,0.652 ± 0.2,0.52 ± 0.188,0.114 ± 0.157,0.031 ± 0.145,0.667 ± 0.149,0.867 ± 0.163,0.3 ± 0.17,0.304 ± 0.182,0.201 ± 0.012,0.162 ± 0.008,0.519 ± 0.037,0.623 ± 0.019,-,-
+KernelShap,0.405 ± 0.222,0.577 ± 0.348,0.462 ± 0.005,0.33 ± 0.005,0.085 ± 0.009,0.08 ± 0.013,0.611 ± 0.181,0.509 ± 0.178,0.133 ± 0.155,0.036 ± 0.145,0.533 ± 0.163,0.8 ± 0.245,0.333 ± 0.149,0.312 ± 0.176,0.222 ± 0.006,0.195 ± 0.004,0.443 ± 0.018,0.54 ± 0.01,-,-
+DeepLift,0.082 ± 0.063,-,0.459 ± 0.005,-,0.083 ± 0.003,-,0.437 ± 0.108,-,0.261 ± 0.084,-,0.667 ± 0.105,-,0.471 ± 0.073,-,0.192 ± 0.002,-,0.531 ± 0.006,-,-,-
+IntegratedGradients,0.287 ± 0.2,-,0.463 ± 0.005,-,0.091 ± 0.011,-,0.548 ± 0.122,-,0.137 ± 0.136,-,0.6 ± 0.133,-,0.368 ± 0.115,-,0.2 ± 0.004,-,0.523 ± 0.013,-,-,-
+Saliency,0.029 ± 0.013,-,0.46 ± 0.004,-,0.081 ± 0.002,-,0.358 ± 0.017,-,0.321 ± 0.022,-,0.5 ± 0.105,-,0.525 ± 0.01,-,0.214 ± 0.002,-,0.442 ± 0.005,-,-,-
+Performance,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0.852 ± 0.025,0.875 ± 0.026

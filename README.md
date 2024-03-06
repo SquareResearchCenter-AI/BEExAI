@@ -10,7 +10,7 @@
   <p align="center">
     Benchmark to Evaluate EXplainable AI
     <br />
-    <a href="https://github.com/SquareResearchCenter-AI/BEExAI"><strong>Explore the docs »</strong></a>
+    <a href="https://beexai.readthedocs.io/en/latest/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/SquareResearchCenter-AI/BEExAI/issues">Report Bug</a>
@@ -20,7 +20,6 @@
 </div>
 
 [![PyPI](https://img.shields.io/pypi/v/beexai)](https://pypi.org/project/beexai/)
-![License](https://img.shields.io/github/license/SquareResearchCenter-data/beexai)
 ![Downloads](https://img.shields.io/pypi/dm/beexai)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/beexai)](https://pypi.org/pypi/beexai/)
 
@@ -159,7 +158,7 @@ exp.init_explainer()
 get_all_metrics(X_test.values,LABEL,trainer.model,exp)
 ```
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://beexai.readthedocs.io/en/latest/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

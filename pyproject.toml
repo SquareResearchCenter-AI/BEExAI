@@ -1,12 +1,13 @@
 [project]
 name = "beexai"
-version = "0.0.3"
+version = "0.0.4"
 description = "BEExAI: Benchmark to Evaluate Explainable AI"
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
+    "License :: OSI Approved :: BSD License"
 ]
 authors = [
   {name = "Samuel Sithakoul", email = "samuelabc78310@gmail.com"},
@@ -26,7 +27,6 @@ dependencies = [
   'tqdm>=4.66.1',
   'xgboost>=2.0.3'
 ]
-license = {file = "LICENSE"}
 
 [build-system]
 requires = ["hatchling"]

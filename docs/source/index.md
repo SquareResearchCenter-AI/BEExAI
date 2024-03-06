@@ -1,7 +1,5 @@
 # Welcome to BEExAI documentation!
 
-[alt text]()
-
 **BEExAI** is a Python library for benchmarking explainability methods on tabular data. It supports a wide range of explainability methods and evaluation metrics. It is designed to be easy to use and to allow fast obtention of benchmark results.
 
 Major features include:

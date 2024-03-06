@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SquareResearchCenter-data/BEExAI">
+  <a href="https://github.com/SquareResearchCenter-AI/BEExAI">
   </a>
 
 <h3 align="center">BEExAI</h3>
@@ -10,12 +10,12 @@
   <p align="center">
     Benchmark to Evaluate EXplainable AI
     <br />
-    <a href="https://github.com/SquareResearchCenter-data/BEExAI"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SquareResearchCenter-AI/BEExAI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SquareResearchCenter-data/BEExAI/issues">Report Bug</a>
+    <a href="https://github.com/SquareResearchCenter-AI/BEExAI/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SquareResearchCenter-data/BEExAI/issues">Request Feature</a>
+    <a href="https://github.com/SquareResearchCenter-AI/BEExAI/issues">Request Feature</a>
   </p>
 </div>
 
@@ -82,7 +82,7 @@ You can also install the project from source using:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SquareResearchCenter-data/BEExAI.git
+   git clone https://github.com/SquareResearchCenter-AI/BEExAI.git
    ```
 2. Install the requirements
    ```sh
@@ -254,7 +254,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/SquareResearchCenter-data/BEExAI](https://github.com/SquareResearchCenter-data/BEExAI)
+Project Link: [https://github.com/SquareResearchCenter-AI/BEExAI](https://github.com/SquareResearchCenter-AI/BEExAI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -272,16 +272,16 @@ Project Link: [https://github.com/SquareResearchCenter-data/BEExAI](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SquareResearchCenter-data/BEExAI.svg?style=for-the-badge
-[contributors-url]: https://github.com/SquareResearchCenter-data/BEExAI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SquareResearchCenter-data/BEExAI.svg?style=for-the-badge
-[forks-url]: https://github.com/SquareResearchCenter-data/BEExAI/network/members
-[stars-shield]: https://img.shields.io/github/stars/SquareResearchCenter-data/BEExAI.svg?style=for-the-badge
-[stars-url]: https://github.com/SquareResearchCenter-data/BEExAI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SquareResearchCenter-data/BEExAI.svg?style=for-the-badge
-[issues-url]: https://github.com/SquareResearchCenter-data/BEExAI/issues
-[license-shield]: https://img.shields.io/github/license/SquareResearchCenter-data/BEExAI.svg?style=for-the-badge
-[license-url]: https://github.com/SquareResearchCenter-data/BEExAI/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/SquareResearchCenter-AI/BEExAI.svg?style=for-the-badge
+[contributors-url]: https://github.com/SquareResearchCenter-AI/BEExAI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SquareResearchCenter-AI/BEExAI.svg?style=for-the-badge
+[forks-url]: https://github.com/SquareResearchCenter-AI/BEExAI/network/members
+[stars-shield]: https://img.shields.io/github/stars/SquareResearchCenter-AI/BEExAI.svg?style=for-the-badge
+[stars-url]: https://github.com/SquareResearchCenter-AI/BEExAI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SquareResearchCenter-AI/BEExAI.svg?style=for-the-badge
+[issues-url]: https://github.com/SquareResearchCenter-AI/BEExAI/issues
+[license-shield]: https://img.shields.io/github/license/SquareResearchCenter-AI/BEExAI.svg?style=for-the-badge
+[license-url]: https://github.com/SquareResearchCenter-AI/BEExAI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png

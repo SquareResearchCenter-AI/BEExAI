@@ -1,6 +1,6 @@
 [project]
 name = "beexai"
-version = "0.0.0"
+version = "0.0.1"
 description = "BEExAI: Benchmark to Evaluate Explainable AI"
 readme = "README.md"
 requires-python = ">=3.9"

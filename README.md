@@ -246,6 +246,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
+BEExAI is open-sourced with BSD-3 license.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

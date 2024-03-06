@@ -1,6 +1,6 @@
 [project]
 name = "beexai"
-version = "0.0.2"
+version = "0.0.3"
 description = "BEExAI: Benchmark to Evaluate Explainable AI"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -26,6 +26,7 @@ dependencies = [
   'tqdm>=4.66.1',
   'xgboost>=2.0.3'
 ]
+license = {file = "LICENSE"}
 
 [build-system]
 requires = ["hatchling"]

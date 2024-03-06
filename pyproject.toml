@@ -1,6 +1,6 @@
 [project]
 name = "beexai"
-version = "0.0.4"
+version = "0.0.6"
 description = "BEExAI: Benchmark to Evaluate Explainable AI"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -33,5 +33,5 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project.urls]
-Homepage = "https://github.com/SquareResearchCenter-data/BEExAI"
-Issues = "https://github.com/SquareResearchCenter-data/BEExAI/issues"
+Homepage = "https://github.com/SquareResearchCenter-AI/BEExAI"
+Issues = "https://github.com/SquareResearchCenter-AI/BEExAI/issues"

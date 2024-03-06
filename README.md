@@ -22,6 +22,7 @@
 [![PyPI](https://img.shields.io/pypi/v/beexai)](https://pypi.org/project/beexai/)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/beexai)](https://pypi.org/pypi/beexai/)
+[![Downloads](https://img.shields.io/pypi/dm/beexai)](https://pypi.org/pypi/beexai/)
 
 <!-- TABLE OF CONTENTS -->
 <details>

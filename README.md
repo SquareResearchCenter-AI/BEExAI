@@ -20,7 +20,7 @@
 </div>
 
 [![PyPI](https://img.shields.io/pypi/v/beexai)](https://pypi.org/project/beexai/)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/beexai)
+![License](https://img.shields.io/pypi/l/beexai)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/beexai)](https://pypi.org/pypi/beexai/)
 
 <!-- TABLE OF CONTENTS -->

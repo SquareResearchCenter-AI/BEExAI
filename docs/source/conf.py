@@ -13,7 +13,6 @@ release = "0.1"
 version = "0.0.1"
 
 # -- General configuration
-
 extensions = [
     "matplotlib.sphinxext.plot_directive",
     "sphinx.ext.autodoc",

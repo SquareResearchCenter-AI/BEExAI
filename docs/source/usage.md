@@ -59,6 +59,7 @@ METHOD = "IntegratedGradients"
 exp = CaptumExplainer(trainer.model,task=task,method=METHOD,sklearn=False)
 exp.init_explainer()
 
+LABEL = 0
 get_all_metrics(X_test.values,LABEL,trainer.model,exp)
 ```
 

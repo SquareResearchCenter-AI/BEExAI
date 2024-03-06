@@ -7,7 +7,6 @@ version: 2
 
 # Set the OS, Python version and other tools you might need
 build:
-  os: Windows 11
   tools:
     python: "3.9"
 

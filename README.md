@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project provides simple tools to benchmark multiple explainable AI methods on multiples Machine Learning models with customizable datasets and compute metrics to evaluate these methods. 
+BEExAI is an opne-source tool to quantitatively evaluate, compare and benchmark post-hoc explainable AI - features attribution - methods on multiples Machine Learning models with an end-to-end pipeline.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

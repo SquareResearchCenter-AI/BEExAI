@@ -245,12 +245,31 @@ Don't forget to give the project a star! Thanks again!
 
 
 
+
+
 <!-- LICENSE -->
 ## License
 
 BEExAI is open-sourced with BSD-3 license.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+<!-- CITATION -->
+## Citation
+
+If you find BEExAI useful, please cite our work:
+
+> @inproceedings{sithakoul2024beexai,
+> title={BEExAI: Benchmark to Evaluate Explainable AI},
+> author={Sithakoul, Samuel and Meftah, Sara and Feutry, Cl{\'e}ment},
+> booktitle={World Conference on Explainable Artificial Intelligence},
+> pages={445--468},
+> year={2024},
+> organization={Springer}
+> }
 
 
 

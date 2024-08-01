@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-BEExAI is an opne-source tool to quantitatively evaluate, compare and benchmark post-hoc explainable AI - features attribution - methods on multiples Machine Learning models with an end-to-end pipeline.
+BEExAI is an open-source tool to quantitatively evaluate, compare and benchmark post-hoc explainable AI - features attribution - methods on multiples Machine Learning models with an end-to-end pipeline.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

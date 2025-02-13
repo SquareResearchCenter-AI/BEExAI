@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-BEExAI is an open-source tool to quantitatively evaluate, compare and benchmark post-hoc explainable AI - features attribution - methods on multiples Machine Learning models with an end-to-end pipeline.
+BEExAI is an open-source tool to quantitatively evaluate, compare and benchmark post-hoc explainable AI - features attribution - methods on multiples Machine Learning models with an end-to-end pipeline. Our paper has been published in The 2nd World Conference on eXplainable Artificial Intelligence and can be available as a preprint [here](https://arxiv.org/abs/2407.19897).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +194,7 @@ For comparison with the benchmarks in the `benchmark_results` folder, we used 10
 
 ### Content description
 
-- benchmark_results: Complete benchmark results from our paper `insert_link` averaged on 5 random seeds
+- benchmark_results: Complete benchmark results from our [paper](https://arxiv.org/abs/2407.19897) averaged on 5 random seeds
 - config: Please detail here some basic information on your data. Other more complex operations on your data need to be done directly in the notebooks or scripts
 - data: [boston](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset) and [kickstarter](https://www.kaggle.com/datasets/kemical/kickstarter-projects) datasets from [Kaggle](https://www.kaggle.com)
 - notebooks: Simple use cases in notebook format

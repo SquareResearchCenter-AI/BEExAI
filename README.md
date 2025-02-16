@@ -59,7 +59,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-BEExAI is an open-source tool to quantitatively evaluate, compare and benchmark post-hoc explainable AI - features attribution - methods on multiples Machine Learning models with an end-to-end pipeline. Our paper has been published in The 2nd World Conference on eXplainable Artificial Intelligence and can be available as a preprint [here](https://arxiv.org/abs/2407.19897).
+BEExAI is an open-source tool to quantitatively evaluate, compare and benchmark post-hoc explainable AI - features attribution - methods on multiples Machine Learning models with an end-to-end pipeline. 
+Our paper has been published in The 2nd World Conference on eXplainable Artificial Intelligence in 2024.
+
+- Documentation: https://beexai.readthedocs.io
+- Paper: [Explainable Artificial Intelligence (xAI 2024) -- BEExAI: Benchmark to Evaluate Explainable AI](https://link.springer.com/chapter/10.1007/978-3-031-63787-2_23)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
